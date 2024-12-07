@@ -32,5 +32,10 @@ The analysis and experiments are built using:
 - Exploratory Data Analysis (EDA) visualizations.
 - Tablueau visualizations for predicting student performances metrics.
 
+## 🏆 Goals
+1. Analyze trends in student performance metrics based on demographic variables.
+2. Explore machine learning models for predicting grades based on historical and demographic data.
+3. Visualize patterns and insights through graphs and statistical analysis.
+
 
 ## 📂 File Structure
