@@ -26,7 +26,6 @@ The analysis and experiments are built using:
 - Jupyter Notebooks
 - Tablueau
 
-
 ## 🚀 Features
 - Data cleaning & preprocessing routines.
 - Exploratory Data Analysis (EDA) visualizations.
@@ -36,6 +35,23 @@ The analysis and experiments are built using:
 1. Analyze trends in student performance metrics based on demographic variables.
 2. Explore machine learning models for predicting grades based on historical and demographic data.
 3. Visualize patterns and insights through graphs and statistical analysis.
-
+   
 
 ## 📂 File Structure
+
+
+## 📈 Visualizations
+
+This repository also includes interactive data visualizations created using **Tableau** to better understand and present insights from the dataset.
+
+### Tableau Work
+Click the link below to view the Tableau dashboard and visualizations:
+
+[🔗 Tableau Dashboard](https://public.tableau.com/app/profile/linet.patriciah/viz/Studentperfomancedashboard_17333111952590/STUDENTPERFOMANCEDASHBOARD)
+
+
+### Examples of Visualizations
+- **Grade Distribution by Gender**: A bar chart showing the performance of students based on their gender.
+- **Effect of Parental Education**: A heatmap highlighting the relationship between parental education levels and student performance.
+- **Time Management vs Performance**: Scatter plots showcasing trends between study hours and grades.
+
